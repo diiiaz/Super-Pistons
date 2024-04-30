@@ -1,0 +1,8 @@
+{
+  "item_group.super-pistons": "Super Pistons",
+
+  "block.super-pistons.super_piston": "Super Piston",
+  "block.super-pistons.super_sticky_piston": "Super Sticky Piston",
+
+  "subtitles.super-pistons.super_piston_move" : "Super Piston moves"
+}

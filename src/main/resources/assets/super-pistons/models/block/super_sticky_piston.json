@@ -1,0 +1,8 @@
+{
+  "parent": "super-pistons:block/template_super_piston",
+  "textures": {
+    "bottom": "super-pistons:block/super_piston_bottom",
+    "platform": "super-pistons:block/super_sticky_piston_top",
+    "side": "super-pistons:block/super_sticky_piston_side"
+  }
+}

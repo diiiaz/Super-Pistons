@@ -1,0 +1,9 @@
+{
+  "super_piston_move": {
+    "subtitle": "subtitles.super-pistons.super_piston_move",
+    "sounds": [
+      "super-pistons:super_piston_move"
+    ]
+  }
+}
+
